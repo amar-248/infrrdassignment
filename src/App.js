@@ -3,12 +3,11 @@ import logo from './logo.svg';
 import './App.css';
 
 let items =[
-
-  {item:"item6",quantity:80},
-  {item:"item7",quantity:60},
-  {item:"item8",quantity:120},
-  {item:"item9",quantity:300},
-  {item:"item10",quantity:310},
+  {item:"item1",quantity:30},
+  {item:"item2",quantity:80},
+  {item:"item3",quantity:100},
+  
+ 
   {item:"item11",quantity:70},
   {item:"item12",quantity:620},
   {item:"item13",quantity:340},
