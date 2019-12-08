@@ -7,9 +7,7 @@ let items =[
   {item:"item2",quantity:80},
   {item:"item3",quantity:100},
   
-  {item:"item8",quantity:120},
-  {item:"item9",quantity:300},
-  {item:"item10",quantity:310},
+ 
   {item:"item11",quantity:70},
   {item:"item12",quantity:620},
   {item:"item13",quantity:340},
