@@ -1,0 +1,113 @@
+select{
+  width: 150px;
+  background: antiquewhite;
+  margin-left: 45px;
+  position: relative;
+  top: 20px;
+  padding-left: 10px;
+  letter-spacing: 2px;
+  font-family: monospace;
+  outline: none;
+  max-height: 35px;
+  margin-bottom: 5px;
+}
+
+.addButton{
+  margin-left: 50%;
+  background: beige;
+    color: black;
+}
+
+.addContainer{
+  box-shadow: 2px 2px 2px 2px #d4cdcd;
+  width: 96%;
+  min-height: 400px;
+  margin-left: 2%;
+  background-color: beige;
+}
+
+.addCOntainer-inner{
+  padding: 50px;
+}
+
+
+.moveLeft{
+  margin-left: 3%;
+}
+
+label{
+  padding-right: 10px;
+}
+.selectClass{
+  height: 30px;
+  margin: 25px;
+  padding-left: 10px;
+  font-family: monospace;
+  width: 96%;
+  box-shadow: 0px 0px 15px #d4cdcd;
+  min-height: 150px;
+  background: #a92d3a;
+}
+
+h1{
+  color: #e6dada;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  font-size: 28px;
+
+}
+
+h2{
+  text-align: center;
+  position: relative;
+  top: 12%;
+  font-size: 32px;
+  color: antiquewhite;
+}
+
+.itemSelect{
+  padding: 50px;
+  font-size: 16px;
+  color: beige;
+  letter-spacing: 2px;
+  display: flex;
+  width: 90%;
+}
+
+button{
+  width: 100px;
+  height: 35px;
+  border-radius: 9px;
+  cursor: pointer;
+  outline: none;
+  margin-top: 20px;
+  outline-style: none;
+  letter-spacing: 2px;
+  font-family: monospace;
+  font-weight: bold;
+  background: center;
+  border: 1px solid;
+  background: #a92d3a;
+  margin-left: 3%;
+  color: #d4cdcd;
+}
+.avail-items{
+  height: 30px;
+  margin-left: 25px;
+  padding-left: 10px;
+  font-family: monospace;
+  display: inline-flex;
+  width: 96%;
+}
+
+.selected-item{
+  background: radial-gradient(black, transparent);
+  min-height: 450px;
+  margin: 30px;
+  width: 96%;
+  box-shadow: 0px 0px 15px #d4cdcd;
+  margin-top: 0px;
+
+  
+
+}
